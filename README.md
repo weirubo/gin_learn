@@ -1,7 +1,7 @@
 # Gin 学习
 1. [安装 gin，快速启动](https://mp.weixin.qq.com/s/ZojVUwdrqWD32TD6aFb1lg)
-2. 响应处理
-3. HTTP 方法
+2. [响应处理](https://mp.weixin.qq.com/s/119eYyic5Gg_qzrpm7_s3A)
+3. HTTP 请求方法
 4. 接收参数，读取 reader
 5. 绑定参数
 6. 请求跳转
