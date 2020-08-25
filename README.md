@@ -2,9 +2,9 @@
 1. [安装 gin，快速启动](https://mp.weixin.qq.com/s/ZojVUwdrqWD32TD6aFb1lg)
 2. [响应处理](https://mp.weixin.qq.com/s/119eYyic5Gg_qzrpm7_s3A)
 3. [HTTP 请求方法](https://mp.weixin.qq.com/s/vQA_4hFX2WAxvV1-cgQERA)
-4. 接收参数，读取 reader
+4. [接收参数，读取 reader](https://mp.weixin.qq.com/s/DA4Xy57RJELqAtT8r5gmmw)
 5. 绑定参数
-6. 请求跳转
+6. 请求重定向
 7. cookie 读写
 8. HTTP 自定义配置
 9. 路由参数
