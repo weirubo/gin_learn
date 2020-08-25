@@ -4,11 +4,11 @@
 3. [HTTP 请求方法](https://mp.weixin.qq.com/s/vQA_4hFX2WAxvV1-cgQERA)
 4. [接收参数，读取 reader](https://mp.weixin.qq.com/s/DA4Xy57RJELqAtT8r5gmmw)
 5. 绑定参数
-6. 请求重定向
-7. cookie 读写
-8. HTTP 自定义配置
-9. 路由参数
-10. 路由组
+6. cookie 读写
+7. HTTP 自定义配置
+8. 路由参数
+9. 路由组
+10. 请求重定向
 11. 中间件
 12. 上传文件
 13. 自定义验证器
