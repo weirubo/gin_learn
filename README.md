@@ -3,7 +3,7 @@
 2. [响应处理](https://mp.weixin.qq.com/s/119eYyic5Gg_qzrpm7_s3A)
 3. [HTTP 请求方法](https://mp.weixin.qq.com/s/vQA_4hFX2WAxvV1-cgQERA)
 4. [接收参数，读取 reader](https://mp.weixin.qq.com/s/DA4Xy57RJELqAtT8r5gmmw)
-5. 绑定参数
+5. [绑定参数](https://mp.weixin.qq.com/s/M3Btuvy6rO2YxLy9aR7jmw)
 6. cookie 读写
 7. HTTP 自定义配置
 8. 路由参数
