@@ -5,7 +5,7 @@
 4. [接收参数，读取 reader](https://mp.weixin.qq.com/s/DA4Xy57RJELqAtT8r5gmmw)
 5. [绑定参数](https://mp.weixin.qq.com/s/M3Btuvy6rO2YxLy9aR7jmw)
 6. [cookie 读写](https://mp.weixin.qq.com/s/A_IelIgCXuYVOUK-GqErQg)
-7. HTTP 自定义配置
+7. HTTP 自定义服务器配置信息
 8. 路由参数
 9. 路由组
 10. 请求重定向
